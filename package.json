@@ -1,6 +1,7 @@
 {
   "private": true,
   "version": "6.20.1",
+  "name": "eugineer-react-native-cli-",
   "workspaces": [
     "packages/*"
   ],
